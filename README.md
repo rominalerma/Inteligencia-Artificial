@@ -1,2 +1,4 @@
 # Inteligencia-Artificial
-Proyectos Inteligencia Artificial
+Proyectos Inteligencia Artificial.
+
+La carpeta de proyectos de inteligencia artificial es un compendio de exploraciones algorítmicas avanzadas, donde cada proyecto es una inmersión profunda en el fascinante mundo de la IA. Desde la implementación del algoritmo Weighted A* hasta el desarrollo de un Pseudoalgoritmo Hill, cada archivo encapsula mi búsqueda por soluciones innovadoras y eficaces en el campo de la inteligencia artificial. Estos proyectos representan un esfuerzo continuo por comprender y aplicar algoritmos que permitan a las máquinas tomar decisiones inteligentes y aprender de manera autónoma. La carpeta es un testimonio de mi habilidad para fusionar teoría y práctica, explorando la frontera entre la lógica computacional y la inteligencia artificial para crear soluciones que desafíen los límites de la innovación tecnológica.
